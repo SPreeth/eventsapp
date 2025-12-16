@@ -1,2 +1,2 @@
-# eventsapp
-dec16HandsOnKubernetes
+# eventsappstart
+This is a simple events app
